@@ -32,12 +32,12 @@ Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotic
 <p><strong>Tools:</strong> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/AtsushiSakai/PythonRobotics/master/icon.png" alt="Gazebo" width="20" height="20"/>
+<img src="/api/placeholder/20/20" alt="Gazebo" width="20" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/SLAM-Logo.svg" alt="SLAM" width="20" height="20"/></p>
 
 <p><strong>Design:</strong> 
 <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks" width="20" height="20"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-autodesk-fusion-360-is-a-cloud-based-3d-cad-cam-and-cae-tool-logo-color-tal-revivo.png" alt="Fusion360" width="20" height="20"/></p>
+<img src="/api/placeholder/20/20" alt="Fusion360" width="20" height="20"/></p>
 
 
 
