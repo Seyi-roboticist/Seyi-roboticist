@@ -1,34 +1,45 @@
-# 👋 Hi, I’m @Seyi-roboticist
+# 👋 Hi, I'm Oluwaseyi Afolayan
 
-Welcome to my GitHub profile! I'm a **Robotics Engineer** passionate about building intelligent systems that interact with the physical world. Whether it's robots, drones, or autonomous systems, I'm always exploring new technologies and algorithms to push the boundaries of what's possible.
+Welcome to my GitHub profile! I'm a **Robotics Engineer** passionate about building intelligent systems that interact with the physical world. Currently pursuing my MSc in Robotics at Johns Hopkins University, I specialize in robot perception, manipulation, and control.
 
-## 👀 I’m interested in ...
-- **Autonomous Robotics**: Exploring cutting-edge multi-agent systems, UAVs, and robot perception.
-- **Machine Learning & AI**: Applying deep learning models to solve perception and control challenges in robotics.
-- **Robot Perception**: Focusing on how robots can see, understand, and interact with their environment.
-- **Human-Robot Interaction**: Bridging the gap between human intent and robotic execution.
+## 🎓 Education
+- **MSc in Robotics (Perception Track)** - Johns Hopkins University, Expected 2025
+- **BEng in Mechatronics, Sustainable Design Engineering** - University of Prince Edward Island, 2023 (Summa Cum Laude)
 
-## 🌱 I’m currently learning ...
-- **Machine Learning & Deep Learning**: Developing smarter robots with neural networks and reinforcement learning.
-- **UAV Systems & Control**: Mastering the intricacies of unmanned aerial systems for autonomous flight.
-- **ROS2**: Expanding my knowledge in the Robot Operating System for real-world applications.
+## 🤖 Areas of Expertise
+- **Robot Perception & Computer Vision**
+- **Path Planning & Motion Control**
+- **Sensor Fusion & Localization**
+- **Machine Learning for Robotics**
+- **Robot Operating System (ROS/ROS2)**
 
-## 💞️ I’m looking to collaborate on ...
-- **Open-source Robotics Projects**: Contributing to innovative robotics solutions, especially in the field of autonomy.
-- **AI for Robotics**: Leveraging machine learning techniques to create adaptable and intelligent robotic systems.
-- **Autonomous Drones**: Projects involving UAVs for real-world applications such as mapping, exploration, and disaster response.
+## 🛠️ Technical Skills
+- **Programming:** C++, Python, MATLAB, Java
+- **Frameworks:** ROS2, OpenCV, PyTorch, MoveIt!
+- **Tools:** Git, Docker, Gazebo, SLAM
+- **Design:** SolidWorks, Fusion360
 
-## 📫 How to reach me ...
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/seyi-afolayan](https://www.linkedin.com/in/seyi-afolayan/)
-- **Twitter**: [@SeyiRoboticist](https://twitter.com/SeyiRoboticist)
+## 🌟 Featured Projects
+- **BiEST Path Planner for UR5 Robot** - Implemented collision-free motion planning
+- **Extended Kalman Filter for Robot Localization** - Developed 6D state estimation for mobile robots
+- **UR5 Robotic Arm Control** - Implemented kinematics, dynamics, and advanced control algorithms
+- **JHockey Robot** - Led the design and development of an autonomous competition robot
 
-## 😄 Pronouns: He/Him
+## 🔬 Research Experience
+- **Graduate Teaching Assistant** - Algorithms for Sensor-Based Robotics, JHU
+- **Graduate Teaching Assistant** - Robot Sensors and Actuators, JHU
+- **Robotics Software Intern** - Laboratory for Computational Sensing and Robotics, JHU
 
-## ⚡ Fun fact:
-I’m a huge fan of science fiction, and I’m constantly inspired by the idea of building robots that can shape the future of humanity. 🚀
+## 🤝 Let's Connect!
+I'm always excited to collaborate on innovative robotics projects, especially in the realms of autonomy, perception, and intelligent control systems.
 
-<!---
-Seyi-roboticist/Seyi-roboticist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 Email: [oafolay2@jh.edu](mailto:oafolay2@jh.edu)
+- 🔗 LinkedIn: [SeyiR](https://www.linkedin.com/in/SeyiR)
+- 🐦 Twitter: [@SeyiGit](https://twitter.com/SeyiGit)
+
+## ⚡ Fun Fact
+When I'm not coding robots, you might find me sketching futuristic robot designs or reading the latest sci-fi novel for inspiration!
+
+---
+
+*"Building the robots of tomorrow, today."*
