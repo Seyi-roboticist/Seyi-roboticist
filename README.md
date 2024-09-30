@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotic
 
 <p><strong>Design:</strong><br>
 <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="Fusion360" width="20" height="20"/></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fusion360/fusion360-original.svg" alt="Fusion360" width="20" height="20"/></p>
 
 
 
