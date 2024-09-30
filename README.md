@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotic
 <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="Fusion360" width="20" height="20"/>
 
 
+
 ## 🌟 Featured Projects
 - **BiEST Path Planner for UR5 Robot** - Implemented collision-free motion planning
 - **Simple Autograd Engine** - Implemented a simple yet robust autograd engine
