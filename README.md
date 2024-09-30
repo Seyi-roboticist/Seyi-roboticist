@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwaseyi Afolayan
 
-Welcome to my GitHub profile! I'm a ** Mechatronics Design Engineer and a Robotics Engineer** passionate about building intelligent systems that interact with the physical world. Currently pursuing my MSE in Robotics at Johns Hopkins University, I specialize in robot perception, manipulation, and control.
+Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotics Engineer** passionate about building intelligent systems that interact with the physical world. Currently pursuing my MSE in Robotics at Johns Hopkins University, I specialize in robot perception, manipulation, and control.
 
 ## 🎓 Education
 - **MSE in Robotics (Perception Track)** - Johns Hopkins University, Expected 2025
