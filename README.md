@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotic
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS2" width="40" height="20"/> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="20" height="20"/>
 
 **Tools:**  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> <img src="http://gazebosim.org/assets/logos/gazebo_vert_pos-eeb31842ce15a4173bdf254e77554764a5a7baf7b1ae8459dfc621c1d5263f1c.svg" alt="Gazebo" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SLAM_example.gif" alt="SLAM" width="20" height="20"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gazebo_logo.svg" alt="Gazebo" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Robot_navigation_using_SLAM.gif" alt="SLAM" width="20" height="20"/>
 
 **Design:**  
 <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="Fusion360" width="20" height="20"/>
