@@ -45,7 +45,7 @@ Fusion360</p>
 - **UR5 Robotic Arm Control** - Implemented kinematics, dynamics, and advanced control algorithms
 - **JHockey Robot** - Led the design and development of an autonomous competition robot
 
-## 🔗 [Robotic Software Portfolio](https://github.com/Seyi-roboticist/OluwaseyiR.github.io/edit/main)
+## 🔗 [Robotic Software Portfolio](https://github.com/Seyi-roboticist/OluwaseyiR.github.io)
 
 ## 🔬 Research Experience
 - **Graduate Teaching Assistant** - Algorithms for Sensor-Based Robotics, JHU
