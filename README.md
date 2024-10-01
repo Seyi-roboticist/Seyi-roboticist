@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oluwaseyi Afolayan
+# 👋 Hi, I'm Oluwaseyi Afolayan or Just Seyi!
 
 Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotics Engineer** passionate about building intelligent systems that interact with the physical world. Currently pursuing my MSE in Robotics at Johns Hopkins University, I specialize in robot perception, manipulation, and control.
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotic
 - **Robot Sensors and Actuators**
 - **Path Planning & Motion Control**
 - **Sensor Fusion & Localization**
-- **Machine Learning for Robotics**
+- **Machine Learning (Deep Learning) for Robotics**
 - **Robot Operating System (ROS/ROS2)**
 
 <h2>🛠️ Technical Skills</h2>
@@ -47,7 +47,7 @@ Fusion360</p>
 
 ## 🔗 [Robotic Software Portfolio](https://github.com/Seyi-roboticist/OluwaseyiR.github.io)
 
-## 🔬 Research Experience
+## 🔬Recent Teaching & Research Experience
 - **Graduate Teaching Assistant** - Algorithms for Sensor-Based Robotics, JHU
 - **Graduate Teaching Assistant** - Robot Sensors and Actuators, JHU
 - **Robotics Software Intern** - Laboratory for Computational Sensing and Robotics, JHU
