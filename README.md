@@ -36,10 +36,7 @@ Gazebo, SLAM
 
 <p><strong>Design:</strong> 
 <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks" width="20" height="20"/>
-Fusion360
-
-
-
+Fusion360</p>
 
 ## 🌟 Featured Projects
 - **BiEST Path Planner for UR5 Robot** - Implemented collision-free motion planning
@@ -47,6 +44,8 @@ Fusion360
 - **Extended Kalman Filter for Robot Localization** - Developed 6D state estimation for mobile robots
 - **UR5 Robotic Arm Control** - Implemented kinematics, dynamics, and advanced control algorithms
 - **JHockey Robot** - Led the design and development of an autonomous competition robot
+
+## 🔗 [Robotic Software Portfolio](https://github.com/Seyi-roboticist/OluwaseyiR.github.io/edit/main/README.md)
 
 ## 🔬 Research Experience
 - **Graduate Teaching Assistant** - Algorithms for Sensor-Based Robotics, JHU
