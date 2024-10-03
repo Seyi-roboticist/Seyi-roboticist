@@ -57,7 +57,7 @@ I'm always excited to collaborate on innovative robotics projects, especially in
 
 - 📧 Email: [oafolay2@jh.edu](mailto:oafolay2@jh.edu)
 - 🔗 LinkedIn: [SeyiR](https://www.linkedin.com/in/SeyiR)
-- 🐦 Twitter: I am not X at the moment ;)
+- 🐦 Twitter: I am not on X at the moment ;)
 
 ## ⚡ Fun Fact
 When I'm not coding robots, you might find me sketching futuristic robot designs or playing the piano!
