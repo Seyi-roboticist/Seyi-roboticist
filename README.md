@@ -56,7 +56,7 @@ Fusion360</p>
 I'm always excited to collaborate on innovative robotics projects, especially in the realms of autonomy, perception, and intelligent control systems.
 
 - 📧 Email: [oafolay2@jh.edu](mailto:oafolay2@jh.edu)
-- 🔗 LinkedIn: [SeyiR](https://www.linkedin.com/in/SeyiR)
+- 🔗 LinkedIn: [SeyiR](https://www.linkedin.com/in/oluwaseyi-r-afolayan-4b8330206/)
 - 🐦 Twitter: I am not on X at the moment ;)
 
 ## ⚡ Fun Fact
