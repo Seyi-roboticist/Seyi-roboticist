@@ -6,10 +6,12 @@ Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotic
 - **MSE in Robotics (Perception Track)** - Johns Hopkins University, Expected 2025
 - **BSc.Eng in Mechatronics, Sustainable Design Engineering** - University of Prince Edward Island, 2023 (Summa Cum Laude)
 
-## 🤖 Areas of Expertise
+## 🤖 Areas of Expertise and Interests
 - **Robot Perception & Computer Vision**
 - **UAV Systems and Control**
 - **Mechatronics**
+- **Precision Agriculture**
+- **Surgical Robotics**
 - **Robot Sensors and Actuators**
 - **Path Planning & Motion Control**
 - **Sensor Fusion & Localization**
