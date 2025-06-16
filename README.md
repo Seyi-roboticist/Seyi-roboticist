@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a **Mechatronics Design Engineer and a Robotic
 - **Robot Perception & Computer Vision**
 - **UAV Systems and Control**
 - **Mechatronics**
+- **Humanoids**
 - **Precision Agriculture**
 - **Surgical Robotics**
 - **Robot Sensors and Actuators**
