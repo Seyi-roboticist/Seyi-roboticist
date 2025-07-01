@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-**Robotics Engineer (E.I.T)** specializing in intelligent systems that bridge the digital and physical worlds. Recent **MSE Robotics** graduate from Johns Hopkins University with expertise spanning robot perception, autonomous manipulation, and real-time control systems. Currently working as a ROS Programming Engineer developing advanced robotic systems.
+**Robotics Engineer (E.I.T)** specializing in intelligent systems that bridge the digital and physical worlds. **MSE Robotics graduate** from Johns Hopkins University with extensive expertise in robot perception, autonomous manipulation, and real-time control systems. Currently serving as ROS Programming Engineer and Graduate Teaching Assistant for multiple advanced robotics and control systems courses.
 
 🎯 **Mission**: *Engineering the future of human-robot collaboration through innovative perception and control technologies*
 
@@ -20,7 +20,7 @@
 
 | Degree | Institution | Year | Distinction |
 |--------|-------------|------|-------------|
-| **MSE Robotics** (Perception & Control) | Johns Hopkins University | **2025** | **Graduate** |
+| **MSE Robotics** (Perception Track) | Johns Hopkins University | **2024** | **Robotics Distinguished Fellowship** |
 | **BSc.Eng Mechatronics** | University of Prince Edward Island | 2023 | **Summa Cum Laude** |
 
 ---
@@ -76,36 +76,50 @@
 | **ROS2 Drone Control System - Aurelia X4** | Complete autonomous drone architecture with MAVLink integration | `ROS 2` `MAVLink` `NVIDIA Jetson` | Team Lead & Remote PIC |
 | **Mobile Manipulation Platform** | Integrated UR5 arm with omnidirectional base and motion planning | `MoveIt!` `ROS 2` `OpenCV` | Production deployment |
 
-### 🔬 **Research & Innovation**
+### 🔬 **Research & Academic Projects**
 | Project | Description | Impact |
 |---------|-------------|---------|
 | **BiEST Path Planner** | Collision-free motion planning for industrial manipulators | 95%+ success rate |
-| **6DOF EKF Localization** | Extended Kalman Filter for mobile robot state estimation | Research validation |
+| **JHockey Autonomous Robot** | Competition robot with real-time perception and control | Team leadership & mechanical design |
+| **CubeSat Power Subsystem** | BASIC-52 programming for SpudNik-1 satellite systems | Research contribution |
 | **TurtleBot4 Patrol System** | Behavior tree navigation with Nav2 integration | Open-source contribution |
+
+### 🏆 **Notable Achievements**
+- **Robotics Distinguished Master Fellowship** - Full tuition scholarship at JHU
+- **Engineering Sustainability Award** - Senior Design Project (2022)
+- **Technical Excellence Award** - UPEI Senior Design (2023)
+- **UC Berkeley Merit Scholarship** - Coleman Fung Institute (Declined)
 
 ---
 
 ## 🏆 Professional Experience
 
-### 💼 **Current Role**
+### 💼 **Current Roles**
 - **ROS Programming Engineer** - *Dynamical Systems & Control Lab* | Johns Hopkins University | *Dec 2024 - Present*
   - Evaluating JHUROV ROS1 packages for compatibility and performance optimization
   - Leading fabrication tasks and equipment testing for underwater robotics systems
 
-### 🔬 **Previous Experience**
-- **Robotics Software Engineer Intern** - *Laboratory for Computational Sensing and Robotics* | Johns Hopkins University | *May-Sep 2024*
+- **Graduate Teaching Assistant** - *Design and Analysis of Dynamic Systems* | Johns Hopkins University | *Dec 2024 - Present*
+  - EN.530.343 - Foundational course on classical control theory and vibrations
+  - Leading problem sessions and grading advanced control theory assignments
+
+- **Graduate Teaching Assistant** - *Algorithms for Sensor-Based Robotics* | Johns Hopkins University | *Aug 2024 - Present*
+  - EN.601.463/663 - Advanced mathematical algorithms in sensor-based robotics
+  - Supporting 82+ students with practical robotics algorithm implementation
+
+### 🔬 **Recent Experience**
+- **Graduate Teaching Assistant** - *Robot Sensors and Actuators* | Johns Hopkins University | *Aug-Dec 2024*
+  - EN.530.430 - Hands-on robotic hardware components course
+  - Supervised lab sessions and developed meaningful assignments with lead instructor
+
+- **Robotics Software Engineer** - *Multiple Labs* | Johns Hopkins University | *Jun 2024 - Present*
   - Developed integrated mobile manipulation systems with UR5e robots
   - Implemented hand-eye calibration and computer vision systems using OpenCV
   - Built complete motion planning pipelines with MoveIt! for pick-and-place operations
 
-### 🎓 **Academic Leadership**
-- **Graduate Teaching Assistant** - *Algorithms for Sensor-Based Robotics* | Johns Hopkins University
-- **Graduate Teaching Assistant** - *Robot Sensors and Actuators* | Johns Hopkins University
-
-### ✈️ **Industry Background**
-- **Aviation Support Technician & Licensed Remote Pilot** - *Cargojet Canada* | *2016-2019*
-  - UAV operations for logistics and cargo transport
-  - Maintenance operations and mechanical troubleshooting
+- **Robotics Course Developer** - *Robot Motion Planning* | Johns Hopkins University | *Jun 2024 - Present*
+  - Developed algorithms for Robot Motion Planning course using MoveIt2 with ROS2
+  - Created course assignments and conducted testing with UR5e robot
 
 ---
 
