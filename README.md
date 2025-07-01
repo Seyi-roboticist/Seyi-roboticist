@@ -130,7 +130,7 @@
 ## 🤝 Let's Collaborate!
 
 🔍 **Open to Opportunities In:**
-- Senior robotics engineering roles
+- Robotics engineering roles
 - Autonomous systems development
 - Computer vision and perception systems
 - Real-time control and embedded systems
