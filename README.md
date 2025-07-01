@@ -20,7 +20,7 @@
 
 | Degree | Institution | Year | Distinction |
 |--------|-------------|------|-------------|
-| **MSE Robotics** (Perception Track) | Johns Hopkins University | **2024** | **Robotics Distinguished Fellowship** |
+| **MSE Robotics** | Johns Hopkins University | **2024** | **Robotics Distinguished Fellowship** |
 | **BSc.Eng Mechatronics** | University of Prince Edward Island | 2023 | **Summa Cum Laude** |
 
 ---
