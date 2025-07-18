@@ -20,7 +20,7 @@
 
 | Degree | Institution | Year | Distinction |
 |--------|-------------|------|-------------|
-| **MSE Robotics** | Johns Hopkins University | **2024** | **Robotics Distinguished Fellowship** |
+| **MSE Robotics** | Johns Hopkins University | **2025** | **Robotics Distinguished Fellowship** |
 | **BSc.Eng Mechatronics** | University of Prince Edward Island | 2023 | **Summa Cum Laude** |
 
 ---
@@ -99,11 +99,11 @@
   - Evaluating JHUROV ROS1 packages for compatibility and performance optimization
   - Leading fabrication tasks and equipment testing for underwater robotics systems
 
-- **Graduate Teaching Assistant** - *Design and Analysis of Dynamic Systems* | Johns Hopkins University | *Dec 2024 - Present*
+- **Graduate Teaching Assistant** - *Design and Analysis of Dynamic Systems* | Johns Hopkins University | *Dec 2024 - May 2025*
   - EN.530.343 - Foundational course on classical control theory and vibrations
   - Leading problem sessions and grading advanced control theory assignments
 
-- **Graduate Teaching Assistant** - *Algorithms for Sensor-Based Robotics* | Johns Hopkins University | *Aug 2024 - Present*
+- **Graduate Teaching Assistant** - *Algorithms for Sensor-Based Robotics* | Johns Hopkins University | *Aug 2024 - May 2025*
   - EN.601.463/663 - Advanced mathematical algorithms in sensor-based robotics
   - Supporting 82+ students with practical robotics algorithm implementation
 
