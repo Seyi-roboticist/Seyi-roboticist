@@ -147,7 +147,7 @@
 - Robotics engineering roles
 - Autonomous systems development
 - Computer vision and perception systems
-- Real-time control and embedded systems
+- Real-time control systems
 - Underwater/marine robotics
 - Research and development positions
 
