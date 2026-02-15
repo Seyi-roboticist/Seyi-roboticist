@@ -56,7 +56,7 @@ tools        Git · Docker · CMake · LaTeX · SolidWorks
 | **MSE Robotics** | Johns Hopkins University (LCSR) | 2025 |
 | | Distinguished Robotics Fellowship · Prof. Louis Whitcomb's lab | |
 | **BSc.Eng Mechatronics** | University of Prince Edward Island | 2023 |
-| | First in class · 4.1/4.3 GPA · Summa Cum Laude | |
+| | Summa Cum Laude | |
 
 800+ students mentored as TA across four graduate robotics courses at Hopkins. SpudNik-1 CubeSat power subsystem with the Canadian Space Agency. Dual FAA & Transport Canada remote pilot licenses.
 
