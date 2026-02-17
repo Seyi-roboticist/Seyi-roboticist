@@ -97,24 +97,6 @@ licenses:    FAA & Transport Canada Remote Pilot
 <p align="center">
 <a href="https://seyi-roboticist.github.io/projects/flight-dynamics/"><img src="https://img.shields.io/badge/Write--up-64b5f6?style=flat-square"/></a>
 </p>
-<p>Nonlinear 6DOF aircraft simulation with trim analysis, successive loop closure autopilot, and dual EKF state estimation.</p>
-<p><code>MATLAB</code> <code>Simulink</code> <code>Control Theory</code> <code>EKF</code></p>
-</td></tr><tr><td width="50%">
-<h4 align="center">🚁 Aurelia X4 UAV</h4>
-<p align="center">
-<a href="https://seyi-roboticist.github.io/projects/aurelia-uav/"><img src="https://img.shields.io/badge/Write--up-64b5f6?style=flat-square"/></a>
-</p>
-<p>Full autonomous flight stack: MAVROS, waypoint navigation, obstacle avoidance on Jetson. Team lead & FAA-licensed Remote PIC.</p>
-<p><code>ROS 2</code> <code>MAVROS</code> <code>PX4</code> <code>Gazebo</code> <code>Jetson</code></p>
-</td><td width="50%">
-<h4 align="center">🧠 NeRF 3D Reconstruction</h4>
-<p align="center">
-<a href="https://seyi-roboticist.github.io/projects/nerf/"><img src="https://img.shields.io/badge/Write--up-64b5f6?style=flat-square"/></a>
-</p>
-<p>Neural radiance fields for novel view synthesis. Custom training pipeline with positional encoding and volumetric rendering.</p>
-<p><code>PyTorch</code> <code>Python</code> <code>CUDA</code> <code>Deep Learning</code></p>
-</td></tr></table>
-
 <p align="center">
 <br>
 <a href="https://seyi-roboticist.github.io"><img src="https://img.shields.io/badge/→_All_Projects-64b5f6?style=for-the-badge&logo=googlechrome&logoColor=0f1923"/></a>
